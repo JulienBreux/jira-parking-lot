@@ -1,15 +1,18 @@
+JIRA Parkink Lot
+================
+
 How to install?
 ---------------
 
     curl -O https://getcomposer.org/composer.phar
     php composer.phar install
 
-How to use?
------------
+How to local run ?
+------------------
 
     php -S locahost:8888
 
-How to display?
----------------
+How to local display?
+---------------------
 
-http://localhost:8888
+[Localhost](http://localhost:8888)
